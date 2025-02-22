@@ -1,0 +1,131 @@
+2025-02-04 09:41:06.288 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 09:41:13.468 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 09:41:13.514 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 09:41:29.047 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 09:41:36.856 [Thread-3] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 09:41:40.114 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 09:41:46.795 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 09:55:39.658 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 09:55:48.429 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 09:55:48.477 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 09:55:56.900 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 09:56:00.815 [Thread-3] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 09:56:08.717 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:10:10.272 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:10:22.339 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:10:26.296 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:11:47.960 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:12:00.982 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:12:01.015 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:12:03.152 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:12:04.706 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:12:04.713 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:12:06.364 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:12:18.088 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-07
+2025-02-04 11:12:18.095 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:12:24.092 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:12:28.926 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-19
+2025-02-04 11:12:28.933 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:12:30.995 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:23:07.628 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:23:10.730 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:23:10.761 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:23:20.722 [Thread-5] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 11:23:25.818 [Thread-6] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 11:23:36.360 [Thread-7] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 11:23:37.782 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:23:39.411 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:23:39.422 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:23:43.477 [Thread-10] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 11:23:44.696 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:30:29.431 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:30:35.000 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:30:35.033 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:30:38.074 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:30:39.451 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:30:39.460 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:30:40.908 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:30:43.460 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:30:43.467 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:30:45.389 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:30:48.190 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:30:48.197 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:41:40.939 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:41:47.998 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:41:48.022 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:42:19.568 [Thread-7] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 11:42:33.894 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:42:37.569 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:42:37.578 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:42:56.356 [Thread-10] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 11:43:01.113 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:43:02.986 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:43:02.994 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:43:10.466 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:43:43.065 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:43:45.639 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:43:45.668 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:43:52.160 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:43:54.505 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-19
+2025-02-04 11:43:54.512 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:44:00.732 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:44:46.853 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2045-02-16
+2025-02-04 11:44:46.862 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:44:49.959 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:45:01.534 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:45:05.749 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:45:09.960 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:45:12.780 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:45:30.287 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:45:30.291 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:45:32.559 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:46:40.358 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.SignUpController - Registrazione effettuata correttamente
+2025-02-04 11:46:40.386 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:46:55.535 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:46:55.560 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:47:02.934 [Thread-5] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 11:47:11.474 [Thread-6] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 11:47:19.561 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:47:22.419 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:47:22.427 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:47:27.499 [Thread-9] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 11:47:30.517 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:47:43.557 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:47:45.167 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 11:47:45.197 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:47:48.691 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:48:13.166 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:48:14.965 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:52:41.945 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.SignUpController - Registrazione effettuata correttamente
+2025-02-04 11:52:41.974 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:54:16.673 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:54:24.042 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:54:24.072 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 11:54:26.019 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 11:54:27.435 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 11:54:27.444 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 15:52:39.833 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 15:52:41.967 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 15:52:42.004 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 15:52:44.116 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 15:52:47.700 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-10
+2025-02-04 15:52:47.708 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 16:26:36.501 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.SignUpController - Registrazione effettuata correttamente
+2025-02-04 16:26:36.541 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 16:26:48.615 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-07
+2025-02-04 16:26:48.653 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 16:27:21.134 [Thread-5] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato
+2025-02-04 16:27:28.936 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 16:27:33.317 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-07
+2025-02-04 16:27:33.341 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 16:27:43.679 [Thread-8] INFO  it.unipi.EzPlannerClient.ActivityController - Eliminazione effettuata
+2025-02-04 16:27:52.028 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 16:27:55.674 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-03
+2025-02-04 16:27:55.687 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 16:28:00.293 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 16:48:24.254 [Thread-3] ERROR it.unipi.EzPlannerClient.PrimaryController - Errore nella fase di inizializzazione del database del server: Connection refused: connect
+2025-02-04 17:03:11.766 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.SignUpController - Registrazione effettuata correttamente
+2025-02-04 17:03:11.810 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Caricamento schermata home
+2025-02-04 17:03:16.819 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.HomeController - Premuto: 2025-02-04
+2025-02-04 17:03:16.868 [JavaFX Application Thread] INFO  it.unipi.EzPlannerClient.ActivityController - Caricamento schermata gestione attività
+2025-02-04 17:03:23.283 [Thread-6] INFO  it.unipi.EzPlannerClient.ActivityController - Inserimento effettuato

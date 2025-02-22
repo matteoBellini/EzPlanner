@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #EAEAEA;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="it.unipi.EzPlannerClient.SignUpController">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    <ColumnConstraints hgrow="NEVER" />
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <Label text="EzPlanner">
+               <font>
+                  <Font name="System Bold Italic" size="36.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <Separator orientation="VERTICAL" prefHeight="200.0" GridPane.columnIndex="1" />
+      <VBox alignment="CENTER" spacing="4.0" style="-fx-background-color: #EAEAEA;" GridPane.columnIndex="2">
+         <children>
+            <Label text="First Name">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="firstName" alignment="CENTER" promptText="First Name" />
+            <Label text="Last Name">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="lastName" alignment="CENTER" promptText="Last Name" />
+            <Label text="Username">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <TextField fx:id="username" alignment="CENTER" promptText="Username" />
+            <Label text="Password">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="password" alignment="CENTER" onKeyTyped="#checkPassword" promptText="Password" />
+            <Label text="Confirm Password">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="confirmPassword" alignment="CENTER" onKeyTyped="#checkPassword" promptText="Confirm Password" />
+            <Label fx:id="infoLabel" textFill="RED">
+               <font>
+                  <Font name="System Italic" size="15.0" />
+               </font>
+            </Label>
+            <Button fx:id="signUpButton" mnemonicParsing="false" onAction="#signup" style="-fx-background-color: #007BFF;" text="Sign Up" textFill="WHITE" />
+            <Button mnemonicParsing="false" onAction="#backToLogin" style="-fx-background-color: #5BC0DE;" text="Back to Login" />
+         </children>
+         <padding>
+            <Insets left="10.0" right="10.0" />
+         </padding>
+      </VBox>
+   </children>
+</GridPane>
